@@ -68,5 +68,6 @@ public class main {
         System.out.println(name + ", какая твоя любимая еда?");
         String food = input.nextLine();
         System.out.println("Я тоже люблю " + food);
+
     }
 }
